@@ -1,0 +1,118 @@
+{
+  "categorias": [
+    {
+      "titulo": "Pagodes do Momento",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Pagodes",
+        "url": "https://www.youtube.com/watch?v=BjXvAmcic54"
+      },
+      "videos": [
+        {
+          "titulo": "Thiaguinho - Deixa Tudo Como Tá (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=fX-pB-s52LY"
+        },
+        {
+          "titulo": "Menos e mais",
+          "url": "https://www.youtube.com/watch?v=zKAAFsovtM4"
+        },
+        {
+          "titulo": "Deixa tudo como ta",
+          "url": "https://www.youtube.com/watch?v=fX-pB-s52LY"
+        },
+        {
+          "titulo": "Manda audio",
+          "url": "https://www.youtube.com/watch?v=nunPQROFUoA"
+        },
+        {
+          "titulo": "Pixote",
+          "url": "https://www.youtube.com/watch?v=g_WBbusFes4"
+        }, 
+        {
+          "titulo": "ate que durou",
+          "url": "https://www.youtube.com/watch?v=T3Y6RRSDm4o"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Espiritismo",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Espiritismo",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "mocidade",
+          "url": "https://www.youtube.com/watch?v=C-1ygsDZ-Eg"
+        },
+        {
+          "titulo": "mocidade",
+          "url":" https://www.youtube.com/watch?v=EQ31sSldtGs"
+        },
+        {
+          "titulo": "ja e tempo",
+          "url": "https://www.youtube.com/watch?v=u4-szieCuUQ"
+        },
+        {
+          "titulo": "homossexualidade e espiritismo",
+          "url": "https://www.youtube.com/watch?v=Z-peZIv13tA"
+        }   
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "De Volta Para o Futuro",
+          "url": "https://www.youtube.com/watch?v=QWYXKmnBq_A"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
