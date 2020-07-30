@@ -1,16 +1,16 @@
 import styled from 'styled-components';
 
 export const Title = styled.h3`
-  font-style: normal;
+  font-family: 'Roboto', sans-serif;
   font-weight: normal;
-  font-size: 35px;
+  font-size: 30px;
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
   padding: 20px;
   background: red;
   line-height: 1;
-  border-radius: 4px;
+  border-radius: 6px;
 
   @media (max-width: 800px) {
     font-size: 18px;

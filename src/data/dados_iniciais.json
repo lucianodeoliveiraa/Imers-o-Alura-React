@@ -4,10 +4,7 @@
       "titulo": "Pagodes do Momento",
       "link": "",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Pagodes",
-        "url": "https://www.youtube.com/watch?v=BjXvAmcic54"
-      },
+      
       "videos": [
         {
           "titulo": "Thiaguinho - Deixa Tudo Como Tá (Clipe Oficial)",
@@ -40,21 +37,20 @@
       "titulo": "Espiritismo",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Espiritismo",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+       
       },
       "videos": [
         {
-          "titulo": "mocidade",
-          "url": "https://www.youtube.com/watch?v=C-1ygsDZ-Eg"
+          "titulo": "ETS REENCARNAM NA TERRA? - CAPELINOS e ESPIRITISMO",
+          "url": "https://www.youtube.com/watch?v=vZL9cR-IQgY"
         },
         {
           "titulo": "mocidade",
           "url":" https://www.youtube.com/watch?v=EQ31sSldtGs"
         },
         {
-          "titulo": "ja e tempo",
-          "url": "https://www.youtube.com/watch?v=u4-szieCuUQ"
+          "titulo": "NOVA LIGAÇÃO DO PLANO ESPIRITUAL | Amigos da Luz",
+          "url": "https://www.youtube.com/watch?v=2ZZNLddEO80"
         },
         {
           "titulo": "homossexualidade e espiritismo",
@@ -62,32 +58,7 @@
         }   
       ]
     },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
+   
     {
       "titulo": "Filmes",
       "cor": "orange",
@@ -97,16 +68,16 @@
           "url": "https://www.youtube.com/watch?v=QWYXKmnBq_A"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Toy Story",
+          "url": "https://www.youtube.com/watch?v=MQ9I1tM-f9s"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Interstellar (LEG)",
+          "url": "https://www.youtube.com/watch?v=LpdTsygor0A"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Matrix",
+          "url": "https://www.youtube.com/watch?v=bUQp81JWdqM"
         }
       ]
     }
